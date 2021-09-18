@@ -9,7 +9,7 @@
 
 ------
 
-<img align="right" width="200" height="200" src="https://github.com/aysegulHalamoglu/aysegulHalamoglu/blob/main/My-OctacatsShortest.gif"></a>
+<img align="right" width="300" height="300" src="https://github.com/aysegulHalamoglu/aysegulHalamoglu/blob/main/My-OctacatsShortest.gif"></a>
 
 
 <h3 align="left">Connect with me:</h3>
