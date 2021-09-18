@@ -1,4 +1,4 @@
-h1 align="center">Hi passenger👋, I'm Ayşegül Halamoğlu</h1>
+<h1 align="center">Hi passenger👋, I'm Ayşegül Halamoğlu</h1>
 <h3 align="center">Trying to broaden my programming skills , don't judge me ⚡</h3>
 
 ------
