@@ -3,7 +3,7 @@
 
 ------
 
-- 🔭 I’m currently in a working life as a Sowtware Designer. In this adventure, I am improving my mobile developer skills in the telecommunication sector. My current learning path consists of Java and SwiftUI. If I have time, I will be sharing the works that I developed during this learning period.  
+- 🔭 I’m currently learning Kotlin. I will be sharing the works that I developed during this learning period.  
 
 - Bootcamps:  **Kodluyoruz - JS & React 2021 Bootcamp** **WTECH - ReactNative 2021 Bootcamp** 
 
